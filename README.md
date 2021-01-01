@@ -9,4 +9,4 @@
 - 😄 Pronouns: he, you
 - ⚡ Fun fact: Well addicted to programming....
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mrpasindueranga)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mrpasindueranga&show_icons=true&count_private=true&bg_color=#0D1117)](https://github.com/anuraghazra/github-readme-stats)

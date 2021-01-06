@@ -13,9 +13,9 @@ I am self motivated programmer who hunger to code. I like to contribute open sou
 ### **My Engagement** ⭐⭐⭐
 ---
 
-[![mrpasindueranga's github stats](https://github-readme-stats.vercel.app/api?username=mrpasindueranga&include_all_commits=true&theme=dark&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![mrpasindueranga's github stats](https://github-readme-stats.vercel.app/api?username=mrpasindueranga&include_all_commits=true&theme=dark&hide_border=true&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrpasindueranga&layout=compact&&theme=dark&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrpasindueranga&layout=compact&&theme=dark&hide_border=true&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
 ### **Tools && Technologies** 🔧🔨⚙

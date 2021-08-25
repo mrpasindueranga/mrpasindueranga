@@ -7,7 +7,7 @@ I am self motivated programmer who hunger to code. I like to contribute open sou
 ### **Find me through the web** 🌎🌍🌏
 ---
 
-[![Facebook](https://img.icons8.com/fluent/35/000000/facebook-new.png)](https://www.facebook.com/pasindu.eranga.5201) [![Twitter](https://img.icons8.com/fluent/35/000000/twitter.png)](https://twitter.com/mrpasindueranga) [![Gmail](https://img.icons8.com/color/35/000000/gmail--v2.png)](mr.h.d.pasindueranga@gmail.com) [![Reddit](https://img.icons8.com/color/35/000000/reddit.png)](https://www.reddit.com/user/Pasindueranga3787) [![Whatsapp](https://img.icons8.com/color/35/000000/whatsapp.png)](+94775707306)
+[![Facebook](https://img.icons8.com/fluent/35/000000/facebook-new.png)](https://www.facebook.com/pasindu.eranga.5201) [![Twitter](https://img.icons8.com/fluent/35/000000/twitter.png)](https://twitter.com/mrpasindueranga)
 <br>
 <br>
 ### **My Engagement** ⭐⭐⭐

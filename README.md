@@ -1,32 +1,18 @@
 ## **Hi, I'm Pasindu Eranga 👋😊**
 ---
-
-I am self motivated programmer who hunger to code. I like to contribute open source protects and technologies to improve and expand open source development and make open source more accessible.
-<br>
-<br>
-### **Find me through the web** 🌎🌍🌏
----
-
-[![Facebook](https://img.icons8.com/fluent/35/000000/facebook-new.png)](https://www.facebook.com/pasindu.eranga.5201) [![Twitter](https://img.icons8.com/fluent/35/000000/twitter.png)](https://twitter.com/mrpasindueranga)
-<br>
-<br>
-### **My Engagement** ⭐⭐⭐
+Hello! I'm a software enthusiast always eager to learn and grow my skills. My passion for coding has driven me to participate in multiple open-source projects, contributing to their development and bringing new ideas to the table. I love the challenge of solving complex problems and finding elegant solutions. I'm also passionate about sharing my knowledge and helping others in the developer community. Feel free to ask me any question related to programming, software development, and technology. Let's build something great together!
+### **My Engagement 🎯🎯**
 ---
 
 [![mrpasindueranga's github stats](https://github-readme-stats.vercel.app/api?username=mrpasindueranga&include_all_commits=true&theme=dark&hide_border=true&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-<br>
-### **Tools && Technologies** 🔧🔨⚙
+### **Tools && Technologies** 🔧🔨
 ---
-
 **Tools :**
-<br>
 
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Shell-Power_Shell-informational?style=flat&logo=Powershell&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Git-F05032?style=flat&logo=Git) ![](https://img.shields.io/badge/Code-Docker-2496ED?style=flat&logo=Docker) ![](https://img.shields.io/badge/Code-Jenkins-D24939?style=flat&logo=Jenkins) 
 
 **Languages :**
-<br>
 
-![](https://img.shields.io/badge/Code-C_Sharp-informational?style=flat&logo=C-Sharp&logoColor=white&color=blue) ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=blue) ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=blue) ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=blue) ![](https://img.shields.io/badge/Code-Java_Script-informational?style=flat&logo=JavaScript&logoColor=white&color=blue) ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Node.js-339933?style=flat&logo=Node.js) ![](https://img.shields.io/badge/Code-React-61DAFB?style=flat&logo=React) ![](https://img.shields.io/badge/Code-Angular-DD0031?style=flat&logo=Angular) ![](https://img.shields.io/badge/Code-Android-3DDC84?style=flat&logo=Android) ![](https://img.shields.io/badge/Code-Flutter-02569B?style=flat&logo=Flutter) ![](https://img.shields.io/badge/Code-Swift-F05138?style=flat&logo=Swift) ![](https://img.shields.io/badge/Code-Laravel-FF2D20?style=flat&logo=Laravel) ![](https://img.shields.io/badge/Code-Lua-2C2D72?style=flat&logo=Lua) ![](https://img.shields.io/badge/Code-Python-3776AB?style=flat&logo=Python) 
 
 ---

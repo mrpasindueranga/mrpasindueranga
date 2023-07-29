@@ -1,7 +1,7 @@
 ## **Hi, I'm Pasindu Eranga 👋😊**
 ---
 Hello! I'm a software enthusiast always eager to learn and grow my skills. My passion for coding has driven me to participate in multiple open-source projects, contributing to their development and bringing new ideas to the table. I love the challenge of solving complex problems and finding elegant solutions. I'm also passionate about sharing my knowledge and helping others in the developer community. Feel free to ask me any question related to programming, software development, and technology. Let's build something great together!
-### **My Engagement 🎯🎯**
+### **My Engagement 🎯🎯🎯**
 ---
 
 [![mrpasindueranga's github stats](https://github-readme-stats.vercel.app/api?username=mrpasindueranga&include_all_commits=true&theme=dark&hide_border=true&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)

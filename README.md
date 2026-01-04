@@ -122,14 +122,6 @@ hobbies: ["Coding", "Tech Blogging", "Gaming", "Photography"]
 
 ---
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- Coming soon...
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ## 🎯 Current Focus
 
 ```javascript

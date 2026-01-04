@@ -107,10 +107,6 @@ hobbies: ["Coding", "Tech Blogging", "Gaming", "Photography"]
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mrpasindueranga&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrpasindueranga&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=mrpasindueranga&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true" alt="Contributions" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrpasindueranga&theme=tokyo-night&hide_border=true&area=true" width="98%" alt="Contribution Graph" />
@@ -122,60 +118,6 @@ hobbies: ["Coding", "Tech Blogging", "Gaming", "Photography"]
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mrpasindueranga&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophies" />
-</div>
-
----
-
-## 🔥 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Project Name 1</h3>
-<div align="center">
-<a href="https://github.com/mrpasindueranga/project1" target="_blank"><img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github&logoColor=white" alt="Code"></a>
-<a href="https://project1-demo.com" target="_blank"><img src="https://img.shields.io/badge/Live-blue?style=for-the-badge&logo=vercel&logoColor=white" alt="Live"></a>
-<p><strong>Tech Stack:</strong> React, Node.js, MongoDB</p>
-<p>A full-stack web application that does amazing things. Features include real-time updates, authentication, and more!</p>
-</div>
-</td>
-
-<td width="50%">
-<h3 align="center">Project Name 2</h3>
-<div align="center">
-<a href="https://github.com/mrpasindueranga/project2" target="_blank"><img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github&logoColor=white" alt="Code"></a>
-<a href="https://project2-demo.com" target="_blank"><img src="https://img.shields.io/badge/Live-blue?style=for-the-badge&logo=vercel&logoColor=white" alt="Live"></a>
-<p><strong>Tech Stack:</strong> Python, Django, PostgreSQL</p>
-<p>An innovative solution for solving real-world problems with cutting-edge technology and clean architecture.</p>
-</div>
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-<h3 align="center">Project Name 3</h3>
-<div align="center">
-<a href="https://github.com/mrpasindueranga/project3" target="_blank"><img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github&logoColor=white" alt="Code"></a>
-<a href="https://project3-demo.com" target="_blank"><img src="https://img.shields.io/badge/Live-blue?style=for-the-badge&logo=vercel&logoColor=white" alt="Live"></a>
-<p><strong>Tech Stack:</strong> Next.js, TypeScript, TailwindCSS</p>
-<p>Modern UI/UX design implementation with responsive layouts and optimal performance metrics.</p>
-</div>
-</td>
-
-<td width="50%">
-<h3 align="center">Project Name 4</h3>
-<div align="center">
-<a href="https://github.com/mrpasindueranga/project4" target="_blank"><img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github&logoColor=white" alt="Code"></a>
-<a href="https://project4-demo.com" target="_blank"><img src="https://img.shields.io/badge/Docs-green?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Docs"></a>
-<p><strong>Tech Stack:</strong> Docker, Kubernetes, AWS</p>
-<p>Scalable cloud infrastructure with automated deployment pipelines and monitoring solutions.</p>
-</div>
-</td>
-</tr>
-</table>
-
 </div>
 
 ---
